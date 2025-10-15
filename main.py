@@ -2,12 +2,6 @@
 """
 Simple Movie Chatbot - Assignment 3 Part 2 (Simple Solution)
 
-Requirements implemented:
- - 
- - Provides at least 20 movies (uses the existing database)
- - 
- - 
- - 
 """
 
 import random
